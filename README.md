@@ -18,6 +18,18 @@ Samsung Global Product Sales Dataset (Kaggle)
 - 5G vs Non-5G Performance
 - Month-over-Month Revenue Growth
 
+## KPIs Calculated
+
+-Total Revenue
+
+-Units Sold
+
+-Return Rate (%)
+
+-Average Discount
+
+-Month-over-Month Growth (%)
+
 ## Key Insights
 
 ### 1. Sales Channel Performance
