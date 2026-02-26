@@ -33,16 +33,16 @@ Samsung Global Product Sales Dataset (Kaggle)
 ## Key Insights
 
 ### 1. Sales Channel Performance
-Samsung Store and E-commerce Platform generated the highest revenue, indicating strong multi-channel distribution.
+Samsung Store and E-commerce Platform generated the highest revenue. Samsung has a well-balanced multi-channel distribution strategy with no heavy reliance on a single channel. Slight optimization in higher-performing channels like Samsung Store and E-commerce could improve total revenue.
 
 ### 2. Return Analysis
-Galaxy Z showed the highest return rate (~10.87%), suggesting potential product complexity or expectation mismatch.
+Galaxy Z showed the highest return rate (~10.87%). High return rates in Galaxy Z may indicate product complexity, pricing dissatisfaction, or customer expectation mismatch. Investigation into quality issues or customer education strategy may reduce return costs.
 
 ### 3. Discount Impact
-Most revenue was generated from orders with 0–10% discount, indicating strong brand pricing power.
+Most revenue was generated from orders with 0–10% discount. Revenue concentration in low-discount segments suggests strong brand pull. Increasing discount beyond 10% may erode margin without significantly boosting volume.
 
 ### 4. 5G vs Non-5G
-Non-5G devices currently contribute higher total revenue than 5G models.
+Despite market push toward 5G, non-5G devices still dominate revenue contribution. Pricing or market penetration strategy for 5G may need re-evaluation.
 
 ## Author
 Juhi Kalra
